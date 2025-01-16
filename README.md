@@ -5,6 +5,8 @@ These scripts are very specific to a custom mesh insert created by Lexbot Sinist
 
 I decided to make this repo public as a learning aid for others interested in learning to write code using Linden Scripting Language for Second Life.
 
-The custom insert mesh object is an interior secured area placed inside of the vault, that are sealed with double doors which are configured as a tandem locking system, requiring two avatars to unlock the doors simultaneously using their individual key cards and PINs.
+The custom insert mesh object is an interior secured area placed inside of the vault, that is sealed with double doors which are configured as a tandem locking system, requiring two avatars to unlock the doors simultaneously using their individual key cards and PINs.
 
-This work is licensed under Creative Commons Attribution-Sharealike 4.0 International. Please refur to LICENSE file for full details.
+## License
+
+This project is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. See the [LICENSE](LICENSE) file for details.
